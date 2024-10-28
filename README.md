@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY4eGNvb21rMXZ5cThxcGphNGN3ZnVveG01cGJzM3Z3ZjQ4MGlhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtcSB6e5hzxaU/200.webp)
+
 <!--
 **eduardobovaroli/eduardobovaroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
